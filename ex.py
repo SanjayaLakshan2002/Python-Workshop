@@ -1,0 +1,5 @@
+x= int (input ("Enter number1:"))
+y= int (input ("Enter number2:"))
+z= (x+y)
+A = (z/2)
+print (A) 
